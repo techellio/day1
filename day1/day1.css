@@ -1,0 +1,20 @@
+body{
+    background-image: url(ferriswheel.jpg);
+    background-size: cover;
+    background-position: center; 
+}
+.display-4{
+    font-family: 'Lobster', cursive;
+    color: #000000;
+    opacity: 1.0;
+}
+.lead{
+    font-family: 'Poiret One', cursive;
+    font-display: bold;
+    color: #000000;
+    opacity: 1.0;
+}
+.jumbotron{
+    opacity: 0.5;
+    width: 60%;
+}
